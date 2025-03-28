@@ -22,6 +22,7 @@ This portfolio demonstrates my ability to:
 - `README.md` – Overview of the repository and objectives
 
 ---
+All screenshots and analysis visuals are included in the attached portfolio document.
 
 This project is a reflection of my learning journey and technical growth in cloud data analytics. I have worked hands-on with real datasets, applied AWS best practices, and developed a deeper understanding of how cloud tools support data-driven decisions.
 
